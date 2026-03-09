@@ -27,7 +27,7 @@ I'm a **Computer Science major** passionate about writing clean code and solving
 - 🧠 Sharpening my skills in **ML/AI** and **algorithm design**
 - 🌱 Always learning — currently exploring new frameworks and models
 - 🤝 Open to collaborating on interesting projects
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: **[diego.meno.toulouse@ulb.be]**
 
 ---
 
