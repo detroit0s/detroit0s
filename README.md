@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝╚══════╝ ╚═════╝  ╚═════╝
 ```
 
-### Hi, I'm Diego 👋
+### Hi, I'm Diego 
 **Computer Science Student** · Building, learning, and shipping.
 
 [![GitHub followers](https://img.shields.io/github/followers/detroit0s?label=Follow&style=social)](https://github.com/detroit0s)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Computer Science major** passionate about writing clean code and solving hard problems. My focus spans **Machine Learning & AI**, **Web Development**, and **Algorithms & Data Structures** — always looking for ways to build things that are both technically sound and impactful.
 
@@ -31,7 +31,7 @@ I'm a **Computer Science major** passionate about writing clean code and solving
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -52,7 +52,7 @@ I'm a **Computer Science major** passionate about writing clean code and solving
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -69,7 +69,7 @@ I'm a **Computer Science major** passionate about writing clean code and solving
 
 ---
 
-## 🔍 Areas of Focus
+## Areas of Focus
 
 | Area | What I'm Exploring |
 |---|---|
@@ -79,7 +79,7 @@ I'm a **Computer Science major** passionate about writing clean code and solving
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 > ⚙️ *Projects coming soon — check back as I build and push new work!*
 
